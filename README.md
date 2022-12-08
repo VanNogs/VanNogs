@@ -1,0 +1,4 @@
+- 👋 Hi, I’m  Vanessa Nogueira Silva
+- 🪴Atualmente finalizei curso tecnico em Programação de Jogos Digitais e estou cursando curso tecnico em Multimidia. 
+- 🪴Apesar do meu foco ser a parte artistic em um processo de desenvolvimento de jogos,irei estar alimentando meu Github
+- 🪴com os codigos dos meus joguinhos realizados durante o curso.
